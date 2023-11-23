@@ -21,3 +21,10 @@ Zmiany w tej wersji aktualizuja kod tka aby był zgodny z zasadą KISS
 
 Wprowadzone zminay:
  - zamiana pól do wyboru  trybu z checkbox na radio
+
+
+### ver.0.03 Beta - 23.11.2023
+
+Wprowadzone zmiany:
+ - Usuniecie zbednych komentarzy
+ - Wstawienie pomocnych i opisowych komentarzy do kazdej funkcji
