@@ -13,7 +13,7 @@ Aplikacja umożliwia użytkownikowi wybór różnych trybów czytania, takich ja
 Aplikacja umożliwia interakcję z użytkownikiem poprzez intuicyjny interfejs. Użytkownik może wybierać różne tryby czytania i dostosowywać ustawienia, takie jak kolor zaznaczenia tekstu. Po wklejeniu tekstu do aplikacji, użytkownik naciska przycisk "Zatwierdź", a aplikacja przetwarza tekst zgodnie z wybranymi ustawieniami. Dodatkowo, użytkownik może korzystać z opcji wyszukiwania określonych fragmentów tekstu, co pozwala na szybkie odnalezienie interesujących informacji.
 
 
-## Aktualizacje 
+## Wersje 
 
 # ver.0.02 Beta - 23.11.2023
 
