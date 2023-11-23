@@ -28,3 +28,10 @@ Wprowadzone zminay:
 Wprowadzone zmiany:
  - Usuniecie zbednych komentarzy
  - Wstawienie pomocnych i opisowych komentarzy do kazdej funkcji
+
+
+### ver.0.04 Beta - 23.11.2023
+
+Wprowadzone zmiany:
+ - Zmiana nazw: Funkcji, zminnych w js na nazwy opisujace cel funkcji/zminnej w programe
+ - Zmiana nazw: class, id w html i css na nazwy odpowiadajace danym elementom na stronie
