@@ -35,3 +35,12 @@ Wprowadzone zmiany:
 Wprowadzone zmiany:
  - Zmiana nazw: Funkcji, zminnych w js na nazwy opisujace cel funkcji/zminnej w programe
  - Zmiana nazw: class, id w html i css na nazwy odpowiadajace danym elementom na stronie
+
+
+
+### ver.0.05 Beta - 23.11.2023
+
+Wprowadzone zmiany:
+ - Usuniecie wszelkiego zakomentowanego kodu
+ - Usuniecie kodu który za nic nie odpoiadał
+ - Usuniecie powtarzajacego się kodu
