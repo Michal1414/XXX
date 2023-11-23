@@ -15,7 +15,7 @@ Aplikacja umożliwia interakcję z użytkownikiem poprzez intuicyjny interfejs. 
 
 ## Wersje 
 
-# ver.0.02 Beta - 23.11.2023
+### ver.0.02 Beta - 23.11.2023
 
 Zmiany w tej wersji aktualizuja kod tka aby był zgodny z zasadą KISS
 
