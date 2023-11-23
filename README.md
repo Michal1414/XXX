@@ -11,3 +11,13 @@ Aplikacja umożliwia użytkownikowi wybór różnych trybów czytania, takich ja
 ## Interakcja z Użytkownikiem
 
 Aplikacja umożliwia interakcję z użytkownikiem poprzez intuicyjny interfejs. Użytkownik może wybierać różne tryby czytania i dostosowywać ustawienia, takie jak kolor zaznaczenia tekstu. Po wklejeniu tekstu do aplikacji, użytkownik naciska przycisk "Zatwierdź", a aplikacja przetwarza tekst zgodnie z wybranymi ustawieniami. Dodatkowo, użytkownik może korzystać z opcji wyszukiwania określonych fragmentów tekstu, co pozwala na szybkie odnalezienie interesujących informacji.
+
+
+##Aktualizacje 
+
+#ver.0.02 Beta - 23.11.2023
+
+Zmiany w tej wersji aktualizuja kod tka aby był zgodny z zasadą KISS
+
+Wprowadzone zminay:
+ - zamiana pól do wyboru  trybu z checkbox na radio
